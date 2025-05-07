@@ -52,3 +52,4 @@ The dashboard successfully provides a unified view of sales dynamics, regional d
 — Incentivize top-performing sales staff and replicate their strategies.
 — Consider phasing out lower-performing chocolates or revamping their branding.
 — Explore digitizing payments further given the rising role of credit cards.
+![Dashboard 2](https://github.com/user-attachments/assets/228eea35-fc22-4910-884b-3ca6328b2c69)
